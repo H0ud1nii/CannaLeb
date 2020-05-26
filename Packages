@@ -12,3 +12,47 @@ Size: 59498
 MD5sum: a0c466f73e7b4bc4a0b6376f08b1e6f4
 SHA1: 9e18235b553d27923e65c06d1046614c3b3c9f56
 SHA256: 9b7398fe1bee4a25406113c860f8c6963d433d06252dbf7eba150d238b7ca9eb
+
+Package: com.fouadraheb.watusi
+Version: 1.2.40
+Architecture: iphoneos-arm
+Maintainer: H0ud1nii <fouad.milan.moussa@gmail.com>
+Depends:  firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.1.21), com.rpetrich.rocketbootstrap, applist
+Filename: /Watusi2-1.2.40.deb
+Size: 5,006,808
+MD5sum: 52cd3374c0ce92ac688b5c62c9769c3a
+SHA1: a043e82d38a9bbbc4f384303332813fc70f36c0e
+SHA256: 9132d43859c8d334cd86b2d4614058bc0fc8eb9fa11fd2be51f2ebae3a8ef632
+Section: Tweaks
+Description:  Compatible with iOS 9, 10, 11, 12 and 13
+
+Watusi will make WhatsApp easier and simpler to use, allowing you to change every part of the app to satisfy your needs. Some of its features:
+
+    Freeze your last seen and control your read receipts
+    Keep your contacts deleted messages and statuses
+    Status Add-ons: Never let your friends know that you viewed their statuses – Download any status – disable auto-advance – Privacy contact groups
+    Auto-reply can reply to your messages automatically
+    Schedule messages to be sent at a specific date and time
+    Blacklist some contacts in order to stop receiving & showing their messages in the chats but instead read their messages in a private location
+    Voice/Video call buttons will let you pick whether you want to WA call or carrier call
+    Set app passcode or by TouchID – or just lock a specific chat
+    Compose a chat by just inserting the phone number instead of creating a new contact
+    Group button to show all your groups together
+    View contact's profile picture by tapping on it from the chat list
+    New Watusi sharing sheet will change your WhatsApp sharing experience
+    Send unlimited number of photos at once
+    Shrink those large emojis back
+    Hide any button that annoys your WhatsApp usage
+    Customize your WhatsApp notifications in many ways like replacing the icon with your contact’s profile picture
+    Change the app and chats theme by picking any fonts & colors you like!
+    And much, much more!
+
+
+The package includes 3 flipswitches for Freeze Lastseen, Read Receipts and Delivery Receipts to turn them on/off from Control Center.
+
+The tweak is available in English, Arabic, German, Spanish, French, Italian, Portuguese, Turkish.
+
+Configure options from inside WhatsApp settings.
+
+Author: Fouad Raheb <support@fouadraheb.com>
+Name: Watusi 2
